@@ -1,0 +1,57 @@
+Looking for git in: git
+Using git 2.11.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moragascatalina
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/rules.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/rules.html
+> git check-ignore -v -z --stdin
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/rules.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/rules.html
+> git show :NYSL/info_game.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/info_game.html
+> git check-ignore -v -z --stdin
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/info_game.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/info_game.html
+> git show :NYSL/rules.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/rules.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/info_game.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/info_game.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moragascatalina/NYSL/info_game.html
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moragascatalina/NYSL/info_game.html
+fatal: your current branch 'master' does not have any commits yet
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moragascatalina/NYSL/contact.html
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moragascatalina/NYSL/contact.html
+fatal: your current branch 'master' does not have any commits yet
+> git show :NYSL/info_game.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/info_game.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/info_game.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/info_game.html

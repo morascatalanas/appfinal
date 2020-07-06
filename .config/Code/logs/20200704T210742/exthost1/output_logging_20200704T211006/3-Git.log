@@ -1,0 +1,61 @@
+Looking for git in: git
+Using git 2.11.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moragascatalina
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show HEAD:.cache/fontconfig/4b7c4507-0138-596f-8e63-fdedc8bdfd82-le64.cache-7
+> git ls-tree -l HEAD -- /home/moragascatalina/.cache/fontconfig/4b7c4507-0138-596f-8e63-fdedc8bdfd82-le64.cache-7
+fatal: Not a valid object name HEAD
+> git ls-tree -l HEAD -- /home/moragascatalina/.cache/fontconfig/4b7c4507-0138-596f-8e63-fdedc8bdfd82-le64.cache-7
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show HEAD:.config/Code/TransportSecurity
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/TransportSecurity
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git show HEAD:.config/Code/Backups/workspaces.json
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/Backups/workspaces.json
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show HEAD:.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c1fc95ff01547f6ca748f6beb4818df1.code
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c1fc95ff01547f6ca748f6beb4818df1.code
+fatal: Not a valid object name HEAD
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c1fc95ff01547f6ca748f6beb4818df1.code
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git show :.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c1fc95ff01547f6ca748f6beb4818df1.code
+> git ls-files --stage -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c1fc95ff01547f6ca748f6beb4818df1.code
+> git show HEAD:.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+fatal: Not a valid object name HEAD
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+fatal: Not a valid object name HEAD
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+fatal: Not a valid object name HEAD
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/moragascatalina/.config/Code/CachedData/cd9ea6488829f560dc949a8b2fb789f3cdc05f5d/index-c3d64086599a5c1b1a9c3537a76fe8bc.code
+fatal: your current branch 'master' does not have any commits yet

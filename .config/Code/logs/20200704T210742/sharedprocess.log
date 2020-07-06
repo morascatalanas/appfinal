@@ -1,0 +1,14 @@
+[2020-07-04 21:07:47.836] [sharedprocess] [info] main {"machineId":"59c04b7e684da37ae0df5bb6210f131dfdb23316efc21673993ef99eeb6bdc6a","windowId":2}
+[2020-07-04 21:08:28.001] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-04 21:47:17.927] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-07-04 21:47:19.429] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/74bd8fc4-73ca-4577-8053-c040a9810faf
+[2020-07-04 21:47:52.487] [sharedprocess] [info] Extracted extension to /home/moragascatalina/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-07-04 21:47:52.490] [sharedprocess] [info] Renamed to /home/moragascatalina/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2020-07-04 21:47:52.515] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-07-04 21:47:52.615] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-07-04 21:47:57.131] [sharedprocess] [info] Installing extension: negokaz.live-server-preview
+[2020-07-04 21:47:59.146] [sharedprocess] [info] Downloaded extension: negokaz.live-server-preview /tmp/2a7bfeaa-e30e-489d-a0f9-4e354c595c85
+[2020-07-04 21:48:26.274] [sharedprocess] [info] Extracted extension to /home/moragascatalina/.vscode/extensions/.negokaz.live-server-preview-0.1.4: negokaz.live-server-preview
+[2020-07-04 21:48:26.276] [sharedprocess] [info] Renamed to /home/moragascatalina/.vscode/extensions/negokaz.live-server-preview-0.1.4
+[2020-07-04 21:48:26.279] [sharedprocess] [info] Installation completed. negokaz.live-server-preview
+[2020-07-04 21:48:26.436] [sharedprocess] [info] Extensions installed successfully: negokaz.live-server-preview

@@ -1,0 +1,36 @@
+[2020-07-04 21:07:43.184] [main] [info] update#setState idle
+[2020-07-04 21:08:13.194] [main] [info] update#setState checking for updates
+[2020-07-04 21:08:13.527] [main] [info] update#setState idle
+[2020-07-04 22:11:31.349] [main] [info] update#setState checking for updates
+[2020-07-04 22:11:39.331] [main] [info] update#setState idle
+[2020-07-04 23:33:49.134] [main] [info] update#setState checking for updates
+[2020-07-04 23:33:57.427] [main] [info] update#setState idle
+[2020-07-05 00:33:49.297] [main] [info] update#setState checking for updates
+[2020-07-05 00:33:50.614] [main] [info] update#setState idle
+[2020-07-05 01:33:49.328] [main] [info] update#setState checking for updates
+[2020-07-05 01:33:50.582] [main] [info] update#setState idle
+[2020-07-05 02:33:49.383] [main] [info] update#setState checking for updates
+[2020-07-05 02:33:50.872] [main] [info] update#setState idle
+[2020-07-05 03:33:49.447] [main] [info] update#setState checking for updates
+[2020-07-05 03:33:50.555] [main] [info] update#setState idle
+[2020-07-05 04:33:49.509] [main] [info] update#setState checking for updates
+[2020-07-05 04:33:50.570] [main] [info] update#setState idle
+[2020-07-05 16:09:35.078] [main] [info] update#setState checking for updates
+[2020-07-05 16:09:45.288] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2607:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-07-05 16:09:45.288] [main] [info] update#setState idle
+[2020-07-05 17:09:35.103] [main] [info] update#setState checking for updates
+[2020-07-05 17:09:36.269] [main] [info] update#setState idle
+[2020-07-05 18:09:35.122] [main] [info] update#setState checking for updates
+[2020-07-05 18:09:36.565] [main] [info] update#setState idle
+[2020-07-05 19:09:35.177] [main] [info] update#setState checking for updates
+[2020-07-05 19:09:36.345] [main] [info] update#setState idle
+[2020-07-05 20:11:05.433] [main] [info] update#setState checking for updates
+[2020-07-05 20:11:11.593] [main] [info] update#setState idle
+[2020-07-05 21:11:05.471] [main] [info] update#setState checking for updates
+[2020-07-05 21:11:06.622] [main] [info] update#setState idle
+[2020-07-05 22:11:05.500] [main] [info] update#setState checking for updates
+[2020-07-05 22:11:06.628] [main] [info] update#setState idle
+[2020-07-05 23:11:05.530] [main] [info] update#setState checking for updates
+[2020-07-05 23:11:06.806] [main] [info] update#setState idle

@@ -1,0 +1,16 @@
+[2020-07-04 21:15:00.004] [renderer1] [error] Failed to execute git
+[2020-07-04 21:15:24.793] [renderer1] [error] Failed to execute git
+[2020-07-04 21:17:06.459] [renderer1] [error] Failed to execute git
+[2020-07-04 21:17:07.787] [renderer1] [error] Failed to execute git
+[2020-07-04 21:17:16.215] [renderer1] [error] Failed to execute git
+[2020-07-04 21:17:24.830] [renderer1] [error] Failed to execute git
+[2020-07-04 21:17:27.033] [renderer1] [error] Failed to execute git
+[2020-07-04 21:47:36.722] [renderer1] [error] Invalid guestInstanceId: 7: Error: Invalid guestInstanceId: 7
+    at getGuestForWebContents (electron/js2c/browser_init.js:5265:11)
+    at electron/js2c/browser_init.js:5229:17
+    at electron/js2c/browser_init.js:5192:14
+    at callHandler (electron/js2c/browser_init.js:5875:30)
+    at EventEmitter.<anonymous> (electron/js2c/browser_init.js:5884:9)
+    at EventEmitter.emit (events.js:203:13)
+    at WebContents.<anonymous> (electron/js2c/browser_init.js:3908:23)
+    at WebContents.emit (events.js:203:13)

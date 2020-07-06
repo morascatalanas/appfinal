@@ -1,0 +1,153 @@
+Looking for git in: git
+Using git 2.11.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/moragascatalina
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git check-ignore -v -z --stdin
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/styles.css/style2.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style2.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/contact.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/contact.html
+> git show :NYSL/styles.css/style2.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style2.css
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/index.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/index.html
+> git show :NYSL/styles.css/style3.css
+> git ls-files --stage -- /home/moragascatalina/NYSL/styles.css/style3.css
+> git show :NYSL/about.html
+> git ls-files --stage -- /home/moragascatalina/NYSL/about.html
