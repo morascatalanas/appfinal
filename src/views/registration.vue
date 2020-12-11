@@ -2,7 +2,7 @@
 <div>
 <div>
      
-      <b-navbar class="justify-content-center align-items-center">
+      <b-navbar >
                     <Titulo text="REGISTRATION"/>
       </b-navbar>
 

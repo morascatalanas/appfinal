@@ -2,7 +2,7 @@
   <div class="info">
   <div>
      
-      <b-navbar class="justify-content-center align-items-center">
+      <b-navbar  >
                     <Titulo text="GAME DATES"/>
       </b-navbar>
 <Dates/>

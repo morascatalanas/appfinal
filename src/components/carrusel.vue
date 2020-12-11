@@ -1,13 +1,10 @@
 <template>
 <b-carousel
     id="carousel-fade"
-      v-model="slide"
       :interval="4000"
       controls
       indicators
-      background="#ababab"
-      @sliding-start="onSlideStart"
-      @sliding-end="onSlideEnd">
+      background="#ababab">
   <div class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" >

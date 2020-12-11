@@ -1,17 +1,23 @@
 <template>
   <div>
-        <div>
-     
-      <b-navbar class="justify-content-center align-items-center">
+    <div>
+      <b-navbar>
                     <Titulo text="HOME"/>
       </b-navbar>
-
     </div>
-<carrusel/>
+
+        <carrusel/>
+
+
  <div class="home">
-<b-card  bg-variant="secondary" text-variant="white" header="Contact US" class="text-center">
-        <b-card-text>Please email us at <a href="nysl@chisoccer.org">nysl@chisoccer.org</a> <br> We will reply to your email as soon as we can.</b-card-text>
-      </b-card>    </div>
+      <b-card  bg-variant="secondary" text-variant="white" header="Contact US" class="text-center">
+          <b-card-text>Please email us at <a href="nysl@chisoccer.org">nysl@chisoccer.org</a> <br> We will reply to your email as soon as we can.</b-card-text>
+      </b-card>   
+ </div>
+
+
+
+
       </div>
 </template>
 
@@ -20,9 +26,8 @@
     margin-left: 9%;
     margin-right: 9%;
     }
-
-    .card{
-    background-color: #1CAF6C;
+.b-button{
+  text-align: center;
 }
 </style>
 <script>
@@ -30,12 +35,13 @@
 import Carrusel from '@/components/carrusel.vue'
 import Titulo from '@/components/nav.vue'
 
-
 export default {
   name : 'home',
+
   components:{
     Carrusel,
     Titulo
+    
   }
 }
 

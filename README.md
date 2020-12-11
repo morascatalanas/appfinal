@@ -1,4 +1,4 @@
-# bye-word
+# NYSL
 
 ## Project setup
 ```
