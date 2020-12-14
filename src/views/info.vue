@@ -26,3 +26,8 @@ export default {
 }
 
 </script>
+<style lang="scss">
+.info{
+  background-color: #E5E8EC;
+}
+</style>

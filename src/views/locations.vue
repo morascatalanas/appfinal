@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="locations">
     <div>
      
       <b-navbar >
@@ -25,3 +25,9 @@ export default {
 }
 
 </script>
+
+<style lang="scss">
+.locations{
+  background-color: #E5E8EC;
+}
+</style>

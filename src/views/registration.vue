@@ -25,3 +25,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+.registration{
+  background-color :#E5E8EC;
+}
+</style>

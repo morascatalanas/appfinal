@@ -32,4 +32,7 @@ h2{
   padding-top: 5vh;
   color:#212529;
 }
+.Legal{
+  background-color: #E5E8EC;
+}
 </style>

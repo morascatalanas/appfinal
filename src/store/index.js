@@ -10,15 +10,15 @@ export default new Vuex.Store({
     user:null,
   },
   mutations: {
-    changeOrder(state,payload){
-    state.selectedOrder = payload
+    changeUserInfo(state,payload){
+    state.user=payload
     },
     listenUser(state){
       firebase.auth().onAuthStateChanged(user=>{
         if (user) {
-          state.user=user;
+          state.user = user;
         }else{
-          state.user=null;
+          state.user = null;
         }
       })
   }

@@ -17,13 +17,30 @@
   </div>
 </template>
 
+
+<script>
+import {mapMutations} from 'vuex'
+
+export default {
+  name:'App',
+  methods:{
+    ...mapMutations(['listenUser'])
+  },
+  beforeMount(){
+    this.listenUser()
+  }
+}
+</script>
+
+
 <style lang="scss">
 
 #app{
   position:relative;
-  padding-bottom: 25vh;
+  padding-bottom: 5vh;
   background-color:  #E5E8EC;
-  height: -webkit-fill-available;
+  height: 100vh;
+  max-height: fit-content;
   width: -webkit-fill-available;
 }
 

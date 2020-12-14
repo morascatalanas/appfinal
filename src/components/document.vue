@@ -133,9 +133,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >NUMBER OF PLAYERS</b-button>
+        <b-button block v-b-toggle.accordion-4 >NUMBER OF PLAYERS</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-4" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>
                <dl>
@@ -169,9 +169,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >SUBSTITUTIONS</b-button>
+        <b-button block v-b-toggle.accordion-5 >SUBSTITUTIONS</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-5" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>
                      <dl> 
@@ -206,10 +206,10 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >CONFISCATED PLAYER PASSES
+        <b-button block v-b-toggle.accordion-6 >CONFISCATED PLAYER PASSES
 </b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-6" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>
          Passes of any individual(s) ejected from any match shall be retained after
@@ -232,9 +232,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 > ALL-PLAY</b-button>
+        <b-button block v-b-toggle.accordion-7 > ALL-PLAY</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-7" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>   <dl>
           <dd>
@@ -258,9 +258,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >PLAYER'S EQUIPMENT</b-button>
+        <b-button block v-b-toggle.accordion-8 >PLAYER'S EQUIPMENT</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-8" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>Where the uniform colors of both teams are so similar that the referee orders a change, the designated home team must change to colors distinct from those of the opponent.</b-card-text>
         </b-card-body>
@@ -269,9 +269,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >MIXED TEAMS</b-button>
+        <b-button block v-b-toggle.accordion-9 >MIXED TEAMS</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-9" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>
               <dl>
@@ -292,9 +292,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >GAME TERMINATION</b-button>
+        <b-button block v-b-toggle.accordion-10 >GAME TERMINATION</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-10" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>Any game terminated after 15 minutes into the second half by the referee by reason of the elements, or by reason of grave disorder on the part of the coaches, players or spectators of a team that is losing at the point that the game is terminated, shall stand as a completed game. If a team is ahead and the game is called because of their actions they will lose the game 1-0.</b-card-text>
         </b-card-body>
@@ -303,9 +303,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >CONDITIONS OF REPLAY OF GAMES</b-button>
+        <b-button block v-b-toggle.accordion-11 >CONDITIONS OF REPLAY OF GAMES</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-11" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text><dl>
           <dd>
@@ -335,9 +335,9 @@
 
      <b-card no-body class="mb-1">
       <b-card-header header-tag="header" class="p-1" role="tab">
-        <b-button block v-b-toggle.accordion-3 >REFEREE RESPONSIBILITIES</b-button>
+        <b-button block v-b-toggle.accordion-12 >REFEREE RESPONSIBILITIES</b-button>
       </b-card-header>
-      <b-collapse id="accordion-3" accordion="my-accordion" role="tabpanel">
+      <b-collapse id="accordion-12" accordion="my-accordion" role="tabpanel">
         <b-card-body>
           <b-card-text>
                  <dl>

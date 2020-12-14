@@ -7,7 +7,7 @@
       </b-navbar>
     </div>
 
-    <template  v-if="user==null">
+    <template  v-if="user == null">
 
         <div class="start">
            <b-avatar src="" size="6rem"></b-avatar>
@@ -42,8 +42,7 @@ export default {
    computed:{
     ...mapState(['user'])
   },
- 
-      components:{
+  components:{
     Titulo
   },
      methods:{
@@ -53,10 +52,10 @@ export default {
         .auth()
         .signInWithPopup(provider)
         .then(result => {
-         console.log('login'+' '+ result.user.email);
-        })
+        console.log('login' +result.user.email)      
+         })
         .catch(error =>{
-          console.log(error.code);
+          console.log(error.code)
         })
 
     },
@@ -64,12 +63,12 @@ export default {
       firebase
       .auth()
       .signOut()
-      .then( result =>{
-         console.log('logout'+ result.user.email);
+      .then(() =>{
+         console.log('logout')
       
       })
       .catch(error =>{
-        console.log(error.code);
+        console.log(error.code)
       })
     }
      }
